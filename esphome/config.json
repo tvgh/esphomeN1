@@ -3,7 +3,7 @@
     "amd64",
     "i386",
     "armv7",
-    "aarch64"
+    "armhf"
   ],
   "auth_api": true,
   "auto_uart": true,
